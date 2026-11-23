@@ -1,7 +1,7 @@
 {
   "name": "postrippl",
   "version": "1.0.0",
-  "description": "Schedule and publish social media posts to Instagram, TikTok, X, YouTube, LinkedIn, Facebook, Threads, Pinterest, Bluesky and Discord from Cursor. Connects the Postrippl MCP server (OAuth sign-in, no API key) and adds skills for scheduling and release announcements.",
+  "description": "Schedule and publish social media posts to Instagram, TikTok, X, YouTube, LinkedIn, Facebook, Threads, Pinterest, Bluesky and Discord from Cursor. Connects the Postrippl MCP server (OAuth sign-in, no API key) and adds a skill for writing and scheduling posts per platform.",
   "author": {
     "name": "Postrippl",
     "email": "hi@postrippl.com"
@@ -10,5 +10,16 @@
   "repository": "https://github.com/postrippl/plugin",
   "license": "MIT",
   "logo": "assets/logo.png",
-  "keywords": ["social-media", "scheduler", "mcp", "instagram", "tiktok", "x", "linkedin", "youtube", "bluesky", "threads"]
+  "keywords": [
+    "social-media",
+    "scheduler",
+    "mcp",
+    "instagram",
+    "tiktok",
+    "x",
+    "linkedin",
+    "youtube",
+    "bluesky",
+    "threads"
+  ]
 }
