@@ -10,6 +10,9 @@
   },
   "homepage": "https://postrippl.com/guides/claude-code",
   "privacyPolicyUrl": "https://postrippl.com/privacy-policy",
+  "termsOfServiceUrl": "https://postrippl.com/tos",
+  "documentationUrl": "https://postrippl.com/mcp",
+  "supportUrl": "mailto:support@postrippl.com",
   "repository": "https://github.com/postrippl/plugin",
   "license": "MIT",
   "keywords": [
