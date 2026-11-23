@@ -30,6 +30,12 @@ Install **Postrippl** from the Cursor Marketplace (Customize in the sidebar, the
 
 Any MCP client can connect to `https://postrippl.com/api/mcp` directly. Setup guides: [Claude Code](https://postrippl.com/guides/claude-code), [Cursor](https://postrippl.com/guides/cursor), [Claude](https://postrippl.com/guides/claude), [ChatGPT](https://postrippl.com/guides/chatgpt).
 
+## Data and privacy
+
+- The MCP server at `postrippl.com` receives what you ask Claude to post: captions, times, the accounts to post to, and media links. It also returns your connected accounts (platform, username, profile link) and your posts.
+- When you attach a file from your computer, the `schedule` skill uploads it with an HTTP PUT to a short-lived signed URL that Postrippl returns. That URL points to Postrippl's media storage on Cloudflare R2, not to postrippl.com itself. Files never attached to a post are deleted after 24 hours.
+- Posts and media are kept while your Postrippl account is open. See the [privacy policy](https://postrippl.com/privacy-policy).
+
 ## Files
 
 | Path | What it is |
