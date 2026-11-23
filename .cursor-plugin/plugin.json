@@ -9,6 +9,6 @@
   "homepage": "https://postrippl.com/guides/cursor",
   "repository": "https://github.com/postrippl/plugin",
   "license": "MIT",
-  "logo": "assets/logo.svg",
+  "logo": "assets/logo.png",
   "keywords": ["social-media", "scheduler", "mcp", "instagram", "tiktok", "x", "linkedin", "youtube", "bluesky", "threads"]
 }
