@@ -1,0 +1,27 @@
+{
+  "name": "postrippl",
+  "displayName": "Postrippl",
+  "version": "1.0.0",
+  "description": "Schedule and publish social media posts to Instagram, TikTok, X, YouTube, LinkedIn, Facebook, Threads, Pinterest, Bluesky and Discord from your agent. Connects the Postrippl MCP server (OAuth sign-in, no API key) and adds skills for scheduling and release announcements.",
+  "author": {
+    "name": "Postrippl",
+    "email": "hi@postrippl.com",
+    "url": "https://postrippl.com"
+  },
+  "homepage": "https://postrippl.com/guides/claude-code",
+  "privacyPolicyUrl": "https://postrippl.com/privacy-policy",
+  "repository": "https://github.com/postrippl/plugin",
+  "license": "MIT",
+  "keywords": [
+    "social-media",
+    "scheduler",
+    "mcp",
+    "instagram",
+    "tiktok",
+    "x",
+    "linkedin",
+    "youtube",
+    "bluesky",
+    "threads"
+  ]
+}

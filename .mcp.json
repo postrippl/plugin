@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "postrippl": {
+      "type": "http",
+      "url": "https://postrippl.com/api/mcp"
+    }
+  }
+}
