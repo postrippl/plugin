@@ -1,5 +1,7 @@
 # Postrippl for Claude Code and Cursor
 
+[![Postrippl MCP connector](https://glama.ai/mcp/connectors/com.postrippl/postrippl/badges/score.svg)](https://glama.ai/mcp/connectors/com.postrippl/postrippl)
+
 Schedule and publish social media posts from your agent. [Postrippl](https://postrippl.com) posts to Instagram, TikTok, X, YouTube, LinkedIn, Facebook, Threads, Pinterest, Bluesky and Discord.
 
 This plugin adds:
